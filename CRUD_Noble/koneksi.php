@@ -1,8 +1,8 @@
 <?php
 $server = "localhost";
 $username = "root";
-$password = "Anggoro123";
-$database = "db_noble";
+$password = "";
+$database = "";
 $koneksi = mysqli_connect($server, $username, $password, $database);
 
 if (!$koneksi) {
