@@ -1,0 +1,59 @@
+.kartu-tabel {
+    background-color: #ffffff;
+    border: 7px solid black;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04);
+    border: 2px solid black;
+    overflow: hidden;
+}
+
+.tabel-kustom {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabel-kustom th {
+    background-color: #1c1c24;
+    color: #ffffff;
+    padding: 18px 15px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    letter-spacing: 0.5px;
+    text-align: center;
+    border: none;
+}
+
+.tabel-kustom td {
+    padding: 16px 15px;
+    color: #4a4a55;
+    vertical-align: middle;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 0.95rem;
+}
+
+.baris-tabel {
+    transition: all 0.2s ease;
+}
+
+.baris-tabel:hover {
+    background-color: #fcfcfc;
+}
+
+.teks-rank {
+    background-color: #f0f0f5;
+    color: #1c1c24;
+    padding: 4px 10px;
+    border-radius: 8px;
+    font-weight: 800;
+}
+
+.tombol-bulat {
+    border-radius: 10px;
+    padding: 6px 12px;
+    transition: 0.2s;
+    border: none;
+}
+
+.tombol-bulat:hover {
+    transform: translateY(-2px);
+}
