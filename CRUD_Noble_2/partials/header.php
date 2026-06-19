@@ -7,6 +7,8 @@ if (!isset($_SESSION['username'])) {
 ?>
 <!DOCTYPE html>
 <html lang="id">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <head>
     <link rel="stylesheet" href="src/css/bootstrap.min.css">
