@@ -8,5 +8,5 @@ Tugas akhir Pemrograman web 2 Project
 Nama : Aldi Rizki Bagus Anggoro
 Kelas: 02SIFM001
 Nim : 251011700013
-link : noblemuseum.infinityfree.io
+
 Terima Kasih Masih banyak kekurangan dalam struktur folder dan lain-lain
