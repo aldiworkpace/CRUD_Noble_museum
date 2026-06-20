@@ -50,12 +50,6 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
 <div class="main-content" style="padding: 15px 10px; min-height: 100vh; background-color: #000000;">
 
-    <div class="d-lg-none mb-4">
-        <button class="btn btn-white shadow-sm border rounded-3" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebarMenu">
-            <i class="bi bi-list fs-4"></i> Menu
-        </button>
-    </div>
-
     <div class="container-fluid p-0">
 
         <div class="kartu-utama p-4 p-md-5">
